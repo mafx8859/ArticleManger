@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background:#016AA9;
+}
+.login_div{
+	margin:0 auto;
+	margin-top:110px;
+	width:1050px;
+	height:555px;
+	background:url(../images/login.png);
+}
+.login_ul{
+	padding-top:274px;
+	padding-left:475px;
+	
+}
+input{
+	color:#FFF;
+border:0px;
+background:rgba(0, 0, 0, 0);
+}

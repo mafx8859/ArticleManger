@@ -1,0 +1,46 @@
+
+.mainDiv{
+	margin:0 auto;
+	border:0px solid red;
+	margin-top:0px;
+	height:620px;
+	border-radius:5px;
+}
+#mainTab{
+	margin:0 auto;
+	margin-top:50px;
+	border:1px solid gray;
+}
+#mainTab tr{
+	border:1px solid gray;
+}
+#mainTab tr td,th{
+	border:1px solid gray;
+	width:170px;
+}
+#mainTab tr td a{
+	text-decoration: none;
+}
+.writenCenter{
+	border:0px solid blue;
+	width:805px;
+	margin:0 auto;
+	border-radius:5px;
+	background-color:#FFF;
+	margin-top:0px;
+}
+.dateUl{
+	margin-top:0px;
+	float:left;
+}
+.detailCenter{
+	height:750px;
+	border:0px solid blue;
+	margin-top:30px;
+	border-radius:5px;
+	margin-left:50px;
+}
+.loginDiv{
+	margin-left:580px;
+	margin-top:200px;
+}
